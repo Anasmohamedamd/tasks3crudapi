@@ -1,22 +1,22 @@
-**Books API (Express.js CRUD)**
+##Books API (Express.js CRUD)
 
 A simple RESTful API built with Node.js and Express.js to manage books without using a database.
 Data is stored temporarily in an in-memory array.
 
- *Features*
+ **Features**
 
-*Create, Read, Update, and Delete (CRUD) book records
+* Create, Read, Update, and Delete (CRUD) book records
 
-*Error handling with proper status codes
+* Error handling with proper status codes
 
-*JSON-based request and response
+* JSON-based request and response
 
-*Easy to test with Postman
+* Easy to test with Postman
 
-*Technologies Used*
+**Technologies Used**
 
-*Node.js
+* Node.js
 
-*Express.js
+* Express.js
 
-*Postman/Thunder client (for testing)
+* Postman/Thunder client (for testing)
